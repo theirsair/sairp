@@ -8,5 +8,71 @@ body {
 }
 
 h2 {
+  position: relative;
+  top: 10px;
+  text-align: center;
+  color: #deba57;
+  font-size: 50px;
   font-family: sfmono;
+}
+
+.header {
+  border-radius: 20px;
+  position: relative;
+  margin: auto;
+  width: 50%;
+  height: 10%;
+  top: 10px;
+  background-color: #303030;
+}
+
+.left {
+  margin-left: 40px;
+  float: left;
+  border-radius: 20px;
+  width: 15%;
+  background-color: #303030;
+  position: relative;
+  height: 70%;
+  margin-top: 70px;
+}
+
+
+.center {
+  margin-left: 50px;
+  float: left;
+  border-radius: 20px;
+  width: 60%;
+  background-color: #303030;
+  position: relative;
+  height: 70%;
+  margin-top: 70px;
+}
+
+.right {
+  margin-left: 50px;
+  float: left;
+  border-radius: 20px;
+  width: 15%;
+  background-color: #303030;
+  position: relative;
+  height: 70%;
+  margin-top: 70px;
+}
+
+.shelfheader {
+  border-radius: 20px;
+  position: relative;
+  bottom: 30px;
+  text-align: center;
+  background-color: #242424;
+  height:10%;
+}
+
+p {
+  font-family: sfmono;
+  color: #deba57;
+  position: relative;
+  top: 15px;
+  font-size: 30px;
 }
