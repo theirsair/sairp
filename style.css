@@ -4,7 +4,8 @@
 }
 
 body {
-  background-color: #242424;
+  background:linear-gradient(0deg, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.9)), url("img/wall.jpg");
+  background-size: cover;
 }
 
 h2 {
@@ -23,7 +24,7 @@ h2 {
   width: 50%;
   height: 10%;
   top: 10px;
-  background-color: #303030;
+  background-color: #232323;
 }
 
 .left {
